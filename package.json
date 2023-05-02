@@ -1,0 +1,38 @@
+{
+  "name": "04-dashgo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.5.5",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@hookform/resolvers": "^3.1.0",
+    "@types/node": "18.16.0",
+    "@types/react": "18.0.38",
+    "@types/react-dom": "18.0.11",
+    "apexcharts": "^3.39.0",
+    "axios": "^1.4.0",
+    "framer-motion": "^10.12.4",
+    "next": "13.3.1",
+    "react": "18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.9",
+    "react-icons": "^4.8.0",
+    "react-query": "^3.39.3",
+    "typescript": "5.0.4",
+    "yup": "^1.1.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@rocketseat/eslint-config": "^1.2.0",
+    "eslint": "^8.39.0",
+    "miragejs": "^0.1.47"
+  }
+}
